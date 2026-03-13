@@ -1,0 +1,5 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+fastf1==3.5.2
+pandas==2.0.3
+gunicorn==21.2.0
